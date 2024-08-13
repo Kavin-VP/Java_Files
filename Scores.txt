@@ -1,0 +1,16 @@
+Shaun Marsh (KXIP) 616
+Matthew Hayden (CSK) 572
+Sachin Tendulkar (MI) 618
+Chris Gayle (RCB) 733
+Michael Hussey (CSK) 733
+Robin Uthappa (KKR) 660
+Virat Kohli (RCB) 973
+Kane Williamson (SRH) 735
+David Warner (SRH) 692
+KL Rahul (KXIP) 670
+Ruturaj Gaikwad (CSK) 635
+Jos Buttler (RR) 863
+Shubman Gill (GT) 890
+
+Player with Highest Score : 
+Virat Kohli (RCB) 973
